@@ -1,10 +1,10 @@
-(3.14 5.67 +)       # Adição
-(10 3 /)            # Divisão inteira
-((5 2 %) (4 6 *) /) # Aninhamento
-(2.5 4.1 |)         # Divisão real
-(7 3 %)             # Resto
-((9 2 ^) (MEM) +)   # Potenciação + MEM
-(15 RES)            # Recupera resultado anterior
-(100.5 200.75 *)    # Multiplicação
-((3 4 +) (5 6 *) -) # Expressão composta
-( (10 2 |) (5 3 ^) +) # Combinação de operações
+(3.14 5.67 +)       
+(10 3 /)          
+((5 2 %) (4 6 *) /) 
+(2.5 4.1 |)       
+(7 3 %)          
+((9 2 ^) (MEM) +)  
+(15 RES)   
+(100.5 200.75 *)
+((3 4 +) (5 6 *) -) 
+( (10 2 |) (5 3 ^) +) 
