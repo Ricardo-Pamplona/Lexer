@@ -1,1 +1,10 @@
-
+(if (5 0 -) (10 MEM) (0 MEM))
+(MEM)
+(3 0 MEM)
+(for (MEM 3 +) (MEM 1 +) (MEM))
+(MEM)
+(5 2 %)
+(if (RES) (100 MEM) (200 MEM))
+(MEM)
+(for (0 5 <) (1 +) (MEM))
+(if (MEM 5 -) (1) (0))
